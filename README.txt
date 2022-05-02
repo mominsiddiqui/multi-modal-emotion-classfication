@@ -1,1 +1,1 @@
-## <div align="center">Documentation</div>
+<div align="center">Documentation</div>
