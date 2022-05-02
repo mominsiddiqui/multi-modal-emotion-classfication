@@ -1,0 +1,47 @@
+{
+    "meaning" : {
+        "0" : "Modality",
+        "1" : "Vocal channel",
+        "2" : "Emotion",
+        "3" : "Emotional intensity",
+        "4" : "Statement",
+        "5" : "Repetition",
+        "6" : "Actor"
+    },
+    "emotion" : {
+        "01" : "neutral", 
+        "02" : "calm", 
+        "03" : "happy", 
+        "04" : "sad", 
+        "05" : "angry", 
+        "06" : "fearful", 
+        "07" : "disgust", 
+        "08" : "surprised"
+    },
+
+    "statement" :  {
+        "01" : "Kids are talking by the door", 
+        "02" : "Dogs are sitting by the door"
+    },
+
+    "modality" : {
+        "01" : "full-AV", 
+        "02" : "video-only", 
+        "03" : "audio-only"
+    },
+
+    "emotional_intensity" : {
+        "01" : "normal", 
+        "02" : "strong"
+    } ,
+
+    "vocal_channel" : {
+        "01" : "speech", 
+        "02" : "song"
+    },
+
+    "repetition" : {
+        "01" : "1st repetition", 
+        "02" : "2nd repetition"
+    }
+}
